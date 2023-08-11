@@ -35,7 +35,6 @@ Luxury Bus Seat Map:
 ...
 
 javascript
-Copy code
 
 Economy Bus Seat Map:
 1 2 3 4
